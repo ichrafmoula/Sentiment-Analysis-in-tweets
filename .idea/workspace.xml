@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0eab3a0-10b7-453e-8700-6c1551ee3fee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Sentiment-analysis-in-tweets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sentiment-analysis-in-tweets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sentiment-analysis-in-tweets.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectId" id="1VvPfOdA43yw2mWRZecOUg0OJ5y" />
   <component name="ProjectViewState">
@@ -87,14 +89,33 @@
       <option name="project" value="LOCAL" />
       <updated>1578132788703</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="version 1 de code">
+      <created>1578133023962</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578133023962</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="version 1 de code" />
     <option name="LAST_COMMIT_MESSAGE" value="version 1 de code" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="311" y="58" width="800" height="677" key="#Inspections" timestamp="1578134844137">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="800" height="677" key="#Inspections/67.27.1299.741@67.27.1299.741" timestamp="1578134844137" />
     <state x="390" y="27" width="642" height="741" key="#Sentiment-analysis-in-tweets.ipynb" timestamp="1578132271885">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -103,34 +124,38 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="105" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/67.27.1299.741@67.27.1299.741" timestamp="1578132250033" />
-    <state x="265" y="27" width="892" height="741" key="CommitChangelistDialog2" timestamp="1578132788398">
+    <state x="265" y="27" width="892" height="741" key="CommitChangelistDialog2" timestamp="1578133023867">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="265" y="27" width="892" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1578132788398" />
+    <state x="265" y="27" width="892" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1578133023867" />
     <state x="478" y="291" width="467" height="210" key="Github.ShareDialog" timestamp="1578132823705">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="478" y="291" width="467" height="210" key="Github.ShareDialog/67.27.1299.741@67.27.1299.741" timestamp="1578132823705" />
-    <state width="1276" height="175" key="GridCell.Tab.0.bottom" timestamp="1578132547003">
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom" timestamp="1578135060483">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578132547003" />
-    <state width="1276" height="175" key="GridCell.Tab.0.center" timestamp="1578132547001">
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578135060483" />
+    <state width="1276" height="175" key="GridCell.Tab.0.center" timestamp="1578135060480">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578132547001" />
-    <state width="1276" height="175" key="GridCell.Tab.0.left" timestamp="1578132547000">
+    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578135060480" />
+    <state width="1276" height="175" key="GridCell.Tab.0.left" timestamp="1578135060479">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578132547000" />
-    <state width="1276" height="175" key="GridCell.Tab.0.right" timestamp="1578132547002">
+    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578135060479" />
+    <state width="1276" height="175" key="GridCell.Tab.0.right" timestamp="1578135060482">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578132547002" />
+    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578135060482" />
     <state x="205" y="31" key="SettingsEditor" timestamp="1578132498198">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1578132498198" />
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1578133406048">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1578133406048" />
     <state x="413" y="133" width="596" height="526" key="VcsDiffUtil.ChangesDialog" timestamp="1578132972231">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -139,5 +164,9 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1578131750265" />
+    <state x="300" y="190" width="822" height="413" key="git4idea.merge.GitPullDialog" timestamp="1578133837265">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="300" y="190" width="822" height="413" key="git4idea.merge.GitPullDialog/67.27.1299.741@67.27.1299.741" timestamp="1578133837265" />
   </component>
 </project>
