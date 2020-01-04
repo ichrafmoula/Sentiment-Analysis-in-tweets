@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0eab3a0-10b7-453e-8700-6c1551ee3fee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Sentiment-analysis-in-tweets.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VvPfOdA43yw2mWRZecOUg0OJ5y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Sentiment-analysis-in-tweets.ipynb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sentiment-Analysis-in-tweets-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../Sentiment-Analysis-in-tweets/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sentiment-analysis-in-tweets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Sentiment-analysis-in-tweets.ipynb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0eab3a0-10b7-453e-8700-6c1551ee3fee" name="Default Changelist" comment="" />
+      <created>1578130699190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578130699190</updated>
+    </task>
+    <task id="LOCAL-00001" summary="version 1 de code">
+      <created>1578132788703</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578132788703</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version 1 de code" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1 de code" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="27" width="642" height="741" key="#Sentiment-analysis-in-tweets.ipynb" timestamp="1578132271885">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="390" y="27" width="642" height="741" key="#Sentiment-analysis-in-tweets.ipynb/67.27.1299.741@67.27.1299.741" timestamp="1578132271885" />
+    <state x="494" y="105" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1578132250033">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="494" y="105" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/67.27.1299.741@67.27.1299.741" timestamp="1578132250033" />
+    <state x="265" y="27" width="892" height="741" key="CommitChangelistDialog2" timestamp="1578132788398">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="265" y="27" width="892" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1578132788398" />
+    <state x="478" y="291" width="467" height="210" key="Github.ShareDialog" timestamp="1578132823705">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="478" y="291" width="467" height="210" key="Github.ShareDialog/67.27.1299.741@67.27.1299.741" timestamp="1578132823705" />
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom" timestamp="1578132547003">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578132547003" />
+    <state width="1276" height="175" key="GridCell.Tab.0.center" timestamp="1578132547001">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578132547001" />
+    <state width="1276" height="175" key="GridCell.Tab.0.left" timestamp="1578132547000">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578132547000" />
+    <state width="1276" height="175" key="GridCell.Tab.0.right" timestamp="1578132547002">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1276" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578132547002" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1578132498198">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1578132498198" />
+    <state x="413" y="133" width="596" height="526" key="VcsDiffUtil.ChangesDialog" timestamp="1578132972231">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="413" y="133" width="596" height="526" key="VcsDiffUtil.ChangesDialog/67.27.1299.741@67.27.1299.741" timestamp="1578132972231" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1578131750265">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1578131750265" />
+  </component>
+</project>
