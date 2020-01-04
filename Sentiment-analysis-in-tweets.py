@@ -17,10 +17,10 @@ os.environ["KERAS_BACKEND"] = "tensorflow"
 
 ## key twitter
 
-consumerkey = "2TZ1K5IosiWpBB1AgRzUN2OYe"
-consumerSecret = "wYB8KHMlK6IRSf7Rr1Chl1jx2chaRqzPa4HVKoZsHVWIMJ7g4d"
-accessToken = "1184232235488219136-bFjHLEHvbLcBt9SJ5PqXvNhfmd2wX4"
-accessTokenSecret = "3GLCtypZ0ibi2DVMY9sgQwnVuooBE90raAxtUik4luNfv"
+consumerkey = *************************
+consumerSecret = ***************************************
+accessToken = ******************************************
+accessTokenSecret = ************************************
 
 ## Authentication
 
